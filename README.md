@@ -2,6 +2,8 @@
 
 Não sou um DEV, mas sou um cara apaixonado por tecnologia e por apreender coisas novas. Atualmente trabalho como Product Owner em uma empresa no ramo de meios de pagamentos e atuamente estou focado  no aplicativo android destinado ao time de vendas da empresa. 
 
+Com mais de 10 anos na área de tecnologia sendo os últimos 4 anos de experiência em projetos de desenvolvimento de software, atuei como Analista de Sistemas, Analista de Projetos e QA. Possuo habilidades em lógica de programação, SQL, APIs REST, metodologias ágeis, UX, suporte ao cliente, gestão de projetos, levantamento e análise de requisitos. Sou apaixonado por tudo relacionado a engenharia de software, gestão de projetos e transformação digital.
+
 ## Ferramentas e Tecnologias 
 
 ### Languages
