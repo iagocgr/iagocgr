@@ -1,10 +1,5 @@
 # Iago Henrique
 
-<div>
-<a href="https://github.com/iagocgr">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagocgr&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=iagocgr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 Não sou um DEV, mas sou um cara apaixonado por tecnologia e por apreender coisas novas. Atualmente trabalho como Product Owner em uma empresa no ramo de meios de pagamentos e atuamente estou focado  no aplicativo android destinado ao time de vendas da empresa. 
 
