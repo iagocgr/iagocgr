@@ -5,6 +5,12 @@ Não sou um DEV, mas sou um cara apaixonado por tecnologia e por apreender coisa
 
 Com mais de 10 anos na área de tecnologia sendo os últimos 5 anos de experiência em projetos de desenvolvimento de software, atuei como Analista de Sistemas, Analista de Projetos e QA. Possuo habilidades em lógica de programação, SQL, APIs REST, metodologias ágeis, UX, suporte ao cliente, gestão de projetos, levantamento e análise de requisitos. Sou apaixonado por tudo relacionado a engenharia de software, gestão de projetos e transformação digital.
 
+"Indivíduos e interações mais que processos e ferramentas;
+Software em funcionamento mais que documentação abrangente;
+Colaboração com o cliente mais que negociação de contratos;
+Responder a mudanças mais que seguir um plano."
+Manifesto ágil.
+
 <div>
 <a href="https://github.com/iagocgr">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagocgr&layout=compact&langs_count=7&theme=dracula"/>
