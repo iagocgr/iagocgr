@@ -21,7 +21,7 @@ Manifesto ágil.
 
 ## Conhecimentos em:
 
-### Languages
+### Linguagens
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![java](https://img.shields.io/badge/Java-B54321?style=for-the-badge&logo=java&logoColor=white)
