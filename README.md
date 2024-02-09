@@ -5,12 +5,12 @@ Não sou um DEV, mas sou um cara apaixonado por tecnologia e por apreender coisa
 
 Com mais de uma década de imersão na área de tecnologia, sendo os últimos 5 anos voltados para projetos de desenvolvimento de software, acumulei experiência como Analista de Sistemas, Analista de Projetos e QA. Minhas habilidades abrangem desde lógica de programação, SQL, APIs REST, até metodologias ágeis, UX, suporte ao cliente, gestão de projetos e levantamento/ análise de requisitos.
 
-lema:
-"Indivíduos e interações mais que processos e ferramentas;
-Software em funcionamento mais que documentação abrangente;
-Colaboração com o cliente mais que negociação de contratos;
-Responder a mudanças mais que seguir um plano."
-Manifesto ágil.
+*lema:
+*"Indivíduos e interações mais que processos e ferramentas;
+*Software em funcionamento mais que documentação abrangente;
+*Colaboração com o cliente mais que negociação de contratos;
+*Responder a mudanças mais que seguir um plano."
+* **Manifesto ágil**
 
 <div>
 <a href="https://github.com/iagocgr">
