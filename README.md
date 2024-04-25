@@ -1,7 +1,7 @@
 # Iago Silva
 
 
-Não sou um DEV, mas sou um cara apaixonado por tecnologia e por apreender coisas novas. Atualmente trabalho como *Product Owner* em uma empresa no ramo de meios de pagamentos e atuamente estou focado  no aplicativo android destinado ao time de vendas da empresa. 
+Sou um cara apaixonado por tecnologia e por apreender coisas novas. Atualmente trabalho como *Product Owner* em uma empresa no ramo de meios de pagamentos e atuamente estou focado  no aplicativo android destinado ao time de vendas da empresa. 
 
 Com mais de uma década de imersão na área de tecnologia, sendo os últimos 5 anos voltados para projetos de desenvolvimento de software, acumulei experiência como Analista de Sistemas, Analista de Projetos e QA. Minhas habilidades abrangem desde lógica de programação, SQL, APIs REST, até metodologias ágeis, UX, suporte ao cliente, gestão de projetos e levantamento/ análise de requisitos.
 
